@@ -1,8 +1,11 @@
 ## Hi there 👋
 
- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..
+ My name is Wayne, and I am a college student studying computer science interrested in Python & AI!
+ 
+ - 🔭 I’m currently working on a To-Do-List & Weather App using Java and API
+- 🌱 I’m recetnly bulit a Client Tracker click here
+- 👯 I’m looking to collaborate on Web Development for Non-Profits
+      - Contact me on "Website link" 
 <!--
 **Zer039s/Zer039s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->c
+
